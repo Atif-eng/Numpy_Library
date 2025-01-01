@@ -1,2 +1,2 @@
-# software
-# Atif ahmdani
+# Code 
+# Atif Ahmdani
